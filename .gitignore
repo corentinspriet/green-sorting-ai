@@ -1,0 +1,13 @@
+# Environnements virtuels
+env/
+venv/
+
+# Fichiers compilés Python
+__pycache__/
+*.pyc
+
+# Fichiers Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Autres dossiers/fichiers inutiles
+.DS_Store

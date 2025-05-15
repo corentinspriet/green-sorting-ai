@@ -1,0 +1,4002 @@
+[
+  {
+    "description": "verre cassé",
+    "label": "verre"
+  },
+  {
+    "description": "jouet transparent",
+    "label": "plastique"
+  },
+  {
+    "description": "bouton sale",
+    "label": "métal"
+  },
+  {
+    "description": "emballage plié",
+    "label": "plastique"
+  },
+  {
+    "description": "sac coloré",
+    "label": "plastique"
+  },
+  {
+    "description": "gobelet vide",
+    "label": "plastique"
+  },
+  {
+    "description": "bouton vide",
+    "label": "métal"
+  },
+  {
+    "description": "paquet opaque",
+    "label": "papier_carton"
+  },
+  {
+    "description": "carton usagé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "bouteille plié",
+    "label": "plastique"
+  },
+  {
+    "description": "verre de fenêtre humide",
+    "label": "verre"
+  },
+  {
+    "description": "morceau de ferraille froissé",
+    "label": "métal"
+  },
+  {
+    "description": "mouchoir usagé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "cendres cassé",
+    "label": "compost"
+  },
+  {
+    "description": "morceau de ferraille plié",
+    "label": "métal"
+  },
+  {
+    "description": "flacon coloré",
+    "label": "verre"
+  },
+  {
+    "description": "couvercle opaque",
+    "label": "plastique"
+  },
+  {
+    "description": "boîte métallique transparent",
+    "label": "métal"
+  },
+  {
+    "description": "jouet cassé coloré",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "canette sale",
+    "label": "métal"
+  },
+  {
+    "description": "journal vide",
+    "label": "papier_carton"
+  },
+  {
+    "description": "carton sale",
+    "label": "papier_carton"
+  },
+  {
+    "description": "marc de café humide",
+    "label": "compost"
+  },
+  {
+    "description": "gobelet vide",
+    "label": "plastique"
+  },
+  {
+    "description": "carafe plié",
+    "label": "verre"
+  },
+  {
+    "description": "restes alimentaires plié",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "gobelet cassé",
+    "label": "plastique"
+  },
+  {
+    "description": "emballage transparent",
+    "label": "plastique"
+  },
+  {
+    "description": "papier coloré",
+    "label": "papier_carton"
+  },
+  {
+    "description": "pelures cassé",
+    "label": "compost"
+  },
+  {
+    "description": "canette froissé",
+    "label": "métal"
+  },
+  {
+    "description": "épluchures froissé",
+    "label": "compost"
+  },
+  {
+    "description": "bouteille coloré",
+    "label": "verre"
+  },
+  {
+    "description": "coquilles d’oeufs usagé",
+    "label": "compost"
+  },
+  {
+    "description": "poussière froissé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "épluchures humide",
+    "label": "compost"
+  },
+  {
+    "description": "déchets de jardin opaque",
+    "label": "compost"
+  },
+  {
+    "description": "boîte métallique humide",
+    "label": "métal"
+  },
+  {
+    "description": "capsule coloré",
+    "label": "métal"
+  },
+  {
+    "description": "verre de fenêtre cassé",
+    "label": "verre"
+  },
+  {
+    "description": "cahier coloré",
+    "label": "papier_carton"
+  },
+  {
+    "description": "vaisselle cassée usagé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "vaisselle cassée froissé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "papier journal cassé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "couvercle vide",
+    "label": "plastique"
+  },
+  {
+    "description": "carafe sale",
+    "label": "verre"
+  },
+  {
+    "description": "restes alimentaires usagé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "feuilles mortes transparent",
+    "label": "compost"
+  },
+  {
+    "description": "morceau de ferraille coloré",
+    "label": "métal"
+  },
+  {
+    "description": "carafe humide",
+    "label": "verre"
+  },
+  {
+    "description": "papier opaque",
+    "label": "papier_carton"
+  },
+  {
+    "description": "flacon sale",
+    "label": "verre"
+  },
+  {
+    "description": "couvercle plié",
+    "label": "plastique"
+  },
+  {
+    "description": "pot coloré",
+    "label": "verre"
+  },
+  {
+    "description": "bouteille sale",
+    "label": "plastique"
+  },
+  {
+    "description": "carton ondulé sale",
+    "label": "papier_carton"
+  },
+  {
+    "description": "film sale plié",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "verre teinté vide",
+    "label": "verre"
+  },
+  {
+    "description": "papier gras coloré",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "verre teinté transparent",
+    "label": "verre"
+  },
+  {
+    "description": "bouton cassé",
+    "label": "métal"
+  },
+  {
+    "description": "cendres usagé",
+    "label": "compost"
+  },
+  {
+    "description": "bocal froissé",
+    "label": "verre"
+  },
+  {
+    "description": "canette vide",
+    "label": "métal"
+  },
+  {
+    "description": "papier sale",
+    "label": "papier_carton"
+  },
+  {
+    "description": "verre teinté sale",
+    "label": "verre"
+  },
+  {
+    "description": "bouteille usagé",
+    "label": "verre"
+  },
+  {
+    "description": "papier journal transparent",
+    "label": "papier_carton"
+  },
+  {
+    "description": "flacon usagé",
+    "label": "verre"
+  },
+  {
+    "description": "restes alimentaires vide",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "poussière humide",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "cendres sale",
+    "label": "compost"
+  },
+  {
+    "description": "carafe vide",
+    "label": "verre"
+  },
+  {
+    "description": "couche jetable usagé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "capsule froissé",
+    "label": "métal"
+  },
+  {
+    "description": "vaisselle cassée humide",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "vaisselle cassée usagé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "clou usagé",
+    "label": "métal"
+  },
+  {
+    "description": "papier plié",
+    "label": "papier_carton"
+  },
+  {
+    "description": "film alimentaire froissé",
+    "label": "plastique"
+  },
+  {
+    "description": "enveloppe coloré",
+    "label": "papier_carton"
+  },
+  {
+    "description": "cendres humide",
+    "label": "compost"
+  },
+  {
+    "description": "gobelet usagé",
+    "label": "plastique"
+  },
+  {
+    "description": "bouteille plié",
+    "label": "plastique"
+  },
+  {
+    "description": "fleurs fanées humide",
+    "label": "compost"
+  },
+  {
+    "description": "clou opaque",
+    "label": "métal"
+  },
+  {
+    "description": "jouet opaque",
+    "label": "plastique"
+  },
+  {
+    "description": "paquet usagé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "verre teinté plié",
+    "label": "verre"
+  },
+  {
+    "description": "reste de nourriture coloré",
+    "label": "compost"
+  },
+  {
+    "description": "flacon sale",
+    "label": "plastique"
+  },
+  {
+    "description": "journal transparent",
+    "label": "papier_carton"
+  },
+  {
+    "description": "boîte métallique opaque",
+    "label": "métal"
+  },
+  {
+    "description": "reste de nourriture vide",
+    "label": "compost"
+  },
+  {
+    "description": "bouteille transparent",
+    "label": "plastique"
+  },
+  {
+    "description": "restes alimentaires plié",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "bouteille coloré",
+    "label": "plastique"
+  },
+  {
+    "description": "marc de café plié",
+    "label": "compost"
+  },
+  {
+    "description": "flacon humide",
+    "label": "plastique"
+  },
+  {
+    "description": "film alimentaire plié",
+    "label": "plastique"
+  },
+  {
+    "description": "enveloppe cassé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "capsule transparent",
+    "label": "métal"
+  },
+  {
+    "description": "carafe humide",
+    "label": "verre"
+  },
+  {
+    "description": "jouet coloré",
+    "label": "plastique"
+  },
+  {
+    "description": "verre teinté cassé",
+    "label": "verre"
+  },
+  {
+    "description": "bouteille sale",
+    "label": "verre"
+  },
+  {
+    "description": "reste de nourriture opaque",
+    "label": "compost"
+  },
+  {
+    "description": "verre froissé",
+    "label": "verre"
+  },
+  {
+    "description": "bouteille plié",
+    "label": "verre"
+  },
+  {
+    "description": "mégot transparent",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "couvercle transparent",
+    "label": "plastique"
+  },
+  {
+    "description": "barquette humide",
+    "label": "plastique"
+  },
+  {
+    "description": "carton ondulé usagé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "vaisselle cassée cassé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "journal opaque",
+    "label": "papier_carton"
+  },
+  {
+    "description": "pot humide",
+    "label": "verre"
+  },
+  {
+    "description": "reste de nourriture humide",
+    "label": "compost"
+  },
+  {
+    "description": "clou coloré",
+    "label": "métal"
+  },
+  {
+    "description": "bouteille cassé",
+    "label": "verre"
+  },
+  {
+    "description": "carton transparent",
+    "label": "papier_carton"
+  },
+  {
+    "description": "pelures usagé",
+    "label": "compost"
+  },
+  {
+    "description": "pot opaque",
+    "label": "verre"
+  },
+  {
+    "description": "paquet opaque",
+    "label": "papier_carton"
+  },
+  {
+    "description": "clou froissé",
+    "label": "métal"
+  },
+  {
+    "description": "poussière froissé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "mégot usagé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "céramique vide",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "sac opaque",
+    "label": "plastique"
+  },
+  {
+    "description": "restes alimentaires cassé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "épluchures transparent",
+    "label": "compost"
+  },
+  {
+    "description": "bouteille humide",
+    "label": "plastique"
+  },
+  {
+    "description": "boîte de conserve sale",
+    "label": "métal"
+  },
+  {
+    "description": "papier journal coloré",
+    "label": "papier_carton"
+  },
+  {
+    "description": "papier gras opaque",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "paquet cassé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "feuilles mortes vide",
+    "label": "compost"
+  },
+  {
+    "description": "boîte de conserve transparent",
+    "label": "métal"
+  },
+  {
+    "description": "boîte métallique usagé",
+    "label": "métal"
+  },
+  {
+    "description": "jouet opaque",
+    "label": "plastique"
+  },
+  {
+    "description": "carafe cassé",
+    "label": "verre"
+  },
+  {
+    "description": "gobelet froissé",
+    "label": "plastique"
+  },
+  {
+    "description": "journal froissé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "bocal opaque",
+    "label": "verre"
+  },
+  {
+    "description": "coquilles d’oeufs froissé",
+    "label": "compost"
+  },
+  {
+    "description": "couche jetable opaque",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "fleurs fanées cassé",
+    "label": "compost"
+  },
+  {
+    "description": "coquilles d’oeufs usagé",
+    "label": "compost"
+  },
+  {
+    "description": "couche jetable coloré",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "film sale sale",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "marc de café plié",
+    "label": "compost"
+  },
+  {
+    "description": "morceau de ferraille vide",
+    "label": "métal"
+  },
+  {
+    "description": "feuilles mortes vide",
+    "label": "compost"
+  },
+  {
+    "description": "bouteille cassé",
+    "label": "plastique"
+  },
+  {
+    "description": "coquilles d’oeufs vide",
+    "label": "compost"
+  },
+  {
+    "description": "enveloppe usagé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "céramique cassé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "coquilles d’oeufs humide",
+    "label": "compost"
+  },
+  {
+    "description": "déchets de jardin transparent",
+    "label": "compost"
+  },
+  {
+    "description": "verre sale",
+    "label": "verre"
+  },
+  {
+    "description": "bouteille opaque",
+    "label": "plastique"
+  },
+  {
+    "description": "emballage opaque",
+    "label": "plastique"
+  },
+  {
+    "description": "bouton coloré",
+    "label": "métal"
+  },
+  {
+    "description": "papier humide",
+    "label": "papier_carton"
+  },
+  {
+    "description": "papier froissé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "déchets de jardin usagé",
+    "label": "compost"
+  },
+  {
+    "description": "clou plié",
+    "label": "métal"
+  },
+  {
+    "description": "flacon froissé",
+    "label": "plastique"
+  },
+  {
+    "description": "restes alimentaires sale",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "restes alimentaires sale",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "carton ondulé humide",
+    "label": "papier_carton"
+  },
+  {
+    "description": "boîte métallique cassé",
+    "label": "métal"
+  },
+  {
+    "description": "bouteille vide",
+    "label": "verre"
+  },
+  {
+    "description": "journal froissé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "rondelle coloré",
+    "label": "métal"
+  },
+  {
+    "description": "pelures coloré",
+    "label": "compost"
+  },
+  {
+    "description": "verre teinté coloré",
+    "label": "verre"
+  },
+  {
+    "description": "restes de pain transparent",
+    "label": "compost"
+  },
+  {
+    "description": "flacon froissé",
+    "label": "verre"
+  },
+  {
+    "description": "flacon usagé",
+    "label": "verre"
+  },
+  {
+    "description": "batterie vide",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "bocal coloré",
+    "label": "verre"
+  },
+  {
+    "description": "pot humide",
+    "label": "verre"
+  },
+  {
+    "description": "carton vide",
+    "label": "papier_carton"
+  },
+  {
+    "description": "carton ondulé plié",
+    "label": "papier_carton"
+  },
+  {
+    "description": "paquet opaque",
+    "label": "papier_carton"
+  },
+  {
+    "description": "papier aluminium plié",
+    "label": "métal"
+  },
+  {
+    "description": "capsule usagé",
+    "label": "métal"
+  },
+  {
+    "description": "jouet humide",
+    "label": "plastique"
+  },
+  {
+    "description": "capsule froissé",
+    "label": "métal"
+  },
+  {
+    "description": "jouet cassé transparent",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "couche jetable sale",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "bouteille vide",
+    "label": "plastique"
+  },
+  {
+    "description": "verre humide",
+    "label": "verre"
+  },
+  {
+    "description": "boîte métallique usagé",
+    "label": "métal"
+  },
+  {
+    "description": "carafe vide",
+    "label": "verre"
+  },
+  {
+    "description": "enveloppe opaque",
+    "label": "papier_carton"
+  },
+  {
+    "description": "capsule sale",
+    "label": "métal"
+  },
+  {
+    "description": "mégot usagé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "ampoule usagé",
+    "label": "verre"
+  },
+  {
+    "description": "capsule froissé",
+    "label": "métal"
+  },
+  {
+    "description": "couche jetable plié",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "couche jetable cassé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "rondelle cassé",
+    "label": "métal"
+  },
+  {
+    "description": "ampoule transparent",
+    "label": "verre"
+  },
+  {
+    "description": "morceau de ferraille vide",
+    "label": "métal"
+  },
+  {
+    "description": "marc de café usagé",
+    "label": "compost"
+  },
+  {
+    "description": "cendres usagé",
+    "label": "compost"
+  },
+  {
+    "description": "clou humide",
+    "label": "métal"
+  },
+  {
+    "description": "bouteille sale",
+    "label": "plastique"
+  },
+  {
+    "description": "verre froissé",
+    "label": "verre"
+  },
+  {
+    "description": "ampoule plié",
+    "label": "verre"
+  },
+  {
+    "description": "jouet cassé usagé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "couvercle cassé",
+    "label": "plastique"
+  },
+  {
+    "description": "canette vide",
+    "label": "métal"
+  },
+  {
+    "description": "boîte froissé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "restes de pain sale",
+    "label": "compost"
+  },
+  {
+    "description": "canette plié",
+    "label": "métal"
+  },
+  {
+    "description": "vaisselle cassée cassé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "couvercle transparent",
+    "label": "plastique"
+  },
+  {
+    "description": "ampoule cassé",
+    "label": "verre"
+  },
+  {
+    "description": "ampoule sale",
+    "label": "verre"
+  },
+  {
+    "description": "couvercle vide",
+    "label": "plastique"
+  },
+  {
+    "description": "déchets de jardin coloré",
+    "label": "compost"
+  },
+  {
+    "description": "jouet humide",
+    "label": "plastique"
+  },
+  {
+    "description": "boîte coloré",
+    "label": "papier_carton"
+  },
+  {
+    "description": "cahier plié",
+    "label": "papier_carton"
+  },
+  {
+    "description": "sac froissé",
+    "label": "plastique"
+  },
+  {
+    "description": "reste de nourriture sale",
+    "label": "compost"
+  },
+  {
+    "description": "verre teinté plié",
+    "label": "verre"
+  },
+  {
+    "description": "céramique usagé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "enveloppe opaque",
+    "label": "papier_carton"
+  },
+  {
+    "description": "coquilles d’oeufs cassé",
+    "label": "compost"
+  },
+  {
+    "description": "coquilles d’oeufs usagé",
+    "label": "compost"
+  },
+  {
+    "description": "gobelet usagé",
+    "label": "plastique"
+  },
+  {
+    "description": "papier vide",
+    "label": "papier_carton"
+  },
+  {
+    "description": "sac plié",
+    "label": "plastique"
+  },
+  {
+    "description": "poussière usagé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "restes alimentaires humide",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "journal usagé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "flacon humide",
+    "label": "verre"
+  },
+  {
+    "description": "coquilles d’oeufs froissé",
+    "label": "compost"
+  },
+  {
+    "description": "bouton usagé",
+    "label": "métal"
+  },
+  {
+    "description": "barquette cassé",
+    "label": "plastique"
+  },
+  {
+    "description": "enveloppe cassé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "fleurs fanées vide",
+    "label": "compost"
+  },
+  {
+    "description": "restes alimentaires cassé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "feuilles mortes froissé",
+    "label": "compost"
+  },
+  {
+    "description": "paquet froissé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "verre vide",
+    "label": "verre"
+  },
+  {
+    "description": "restes de pain usagé",
+    "label": "compost"
+  },
+  {
+    "description": "rondelle transparent",
+    "label": "métal"
+  },
+  {
+    "description": "papier vide",
+    "label": "papier_carton"
+  },
+  {
+    "description": "enveloppe coloré",
+    "label": "papier_carton"
+  },
+  {
+    "description": "rondelle cassé",
+    "label": "métal"
+  },
+  {
+    "description": "épluchures coloré",
+    "label": "compost"
+  },
+  {
+    "description": "mouchoir usagé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "vaisselle cassée cassé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "vaisselle cassée coloré",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "bouteille froissé",
+    "label": "verre"
+  },
+  {
+    "description": "boîte métallique transparent",
+    "label": "métal"
+  },
+  {
+    "description": "flacon froissé",
+    "label": "plastique"
+  },
+  {
+    "description": "jouet humide",
+    "label": "plastique"
+  },
+  {
+    "description": "batterie usagé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "flacon sale",
+    "label": "plastique"
+  },
+  {
+    "description": "emballage froissé",
+    "label": "plastique"
+  },
+  {
+    "description": "flacon plié",
+    "label": "plastique"
+  },
+  {
+    "description": "poussière coloré",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "clou coloré",
+    "label": "métal"
+  },
+  {
+    "description": "bouteille plié",
+    "label": "plastique"
+  },
+  {
+    "description": "rondelle cassé",
+    "label": "métal"
+  },
+  {
+    "description": "pot usagé",
+    "label": "verre"
+  },
+  {
+    "description": "céramique humide",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "pot usagé",
+    "label": "verre"
+  },
+  {
+    "description": "bouteille vide",
+    "label": "verre"
+  },
+  {
+    "description": "bouteille coloré",
+    "label": "plastique"
+  },
+  {
+    "description": "poussière coloré",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "emballage plié",
+    "label": "plastique"
+  },
+  {
+    "description": "gobelet coloré",
+    "label": "plastique"
+  },
+  {
+    "description": "flacon transparent",
+    "label": "plastique"
+  },
+  {
+    "description": "flacon coloré",
+    "label": "plastique"
+  },
+  {
+    "description": "pot usagé",
+    "label": "verre"
+  },
+  {
+    "description": "mégot sale",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "papier journal plié",
+    "label": "papier_carton"
+  },
+  {
+    "description": "enveloppe humide",
+    "label": "papier_carton"
+  },
+  {
+    "description": "pot usagé",
+    "label": "verre"
+  },
+  {
+    "description": "pot coloré",
+    "label": "verre"
+  },
+  {
+    "description": "céramique transparent",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "bouteille cassé",
+    "label": "plastique"
+  },
+  {
+    "description": "pelures humide",
+    "label": "compost"
+  },
+  {
+    "description": "couvercle cassé",
+    "label": "plastique"
+  },
+  {
+    "description": "bouteille humide",
+    "label": "verre"
+  },
+  {
+    "description": "couvercle coloré",
+    "label": "plastique"
+  },
+  {
+    "description": "canette froissé",
+    "label": "métal"
+  },
+  {
+    "description": "mouchoir coloré",
+    "label": "papier_carton"
+  },
+  {
+    "description": "canette plié",
+    "label": "métal"
+  },
+  {
+    "description": "pelures plié",
+    "label": "compost"
+  },
+  {
+    "description": "couvercle vide",
+    "label": "plastique"
+  },
+  {
+    "description": "boîte de conserve usagé",
+    "label": "métal"
+  },
+  {
+    "description": "restes alimentaires transparent",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "pelures transparent",
+    "label": "compost"
+  },
+  {
+    "description": "épluchures sale",
+    "label": "compost"
+  },
+  {
+    "description": "clou plié",
+    "label": "métal"
+  },
+  {
+    "description": "boîte sale",
+    "label": "papier_carton"
+  },
+  {
+    "description": "capsule vide",
+    "label": "métal"
+  },
+  {
+    "description": "cahier vide",
+    "label": "papier_carton"
+  },
+  {
+    "description": "carafe vide",
+    "label": "verre"
+  },
+  {
+    "description": "restes de pain opaque",
+    "label": "compost"
+  },
+  {
+    "description": "barquette transparent",
+    "label": "plastique"
+  },
+  {
+    "description": "couche jetable cassé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "batterie vide",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "pot coloré",
+    "label": "verre"
+  },
+  {
+    "description": "restes de pain vide",
+    "label": "compost"
+  },
+  {
+    "description": "clou humide",
+    "label": "métal"
+  },
+  {
+    "description": "boîte de conserve opaque",
+    "label": "métal"
+  },
+  {
+    "description": "paquet opaque",
+    "label": "papier_carton"
+  },
+  {
+    "description": "pot vide",
+    "label": "verre"
+  },
+  {
+    "description": "déchets de jardin opaque",
+    "label": "compost"
+  },
+  {
+    "description": "verre teinté coloré",
+    "label": "verre"
+  },
+  {
+    "description": "paquet sale",
+    "label": "papier_carton"
+  },
+  {
+    "description": "verre teinté plié",
+    "label": "verre"
+  },
+  {
+    "description": "papier gras sale",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "papier gras transparent",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "restes alimentaires plié",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "flacon vide",
+    "label": "plastique"
+  },
+  {
+    "description": "sac plié",
+    "label": "plastique"
+  },
+  {
+    "description": "coquilles d’oeufs froissé",
+    "label": "compost"
+  },
+  {
+    "description": "papier aluminium usagé",
+    "label": "métal"
+  },
+  {
+    "description": "pelures vide",
+    "label": "compost"
+  },
+  {
+    "description": "bocal sale",
+    "label": "verre"
+  },
+  {
+    "description": "restes de pain froissé",
+    "label": "compost"
+  },
+  {
+    "description": "marc de café humide",
+    "label": "compost"
+  },
+  {
+    "description": "clou plié",
+    "label": "métal"
+  },
+  {
+    "description": "bouteille transparent",
+    "label": "verre"
+  },
+  {
+    "description": "feuilles mortes froissé",
+    "label": "compost"
+  },
+  {
+    "description": "bouteille cassé",
+    "label": "verre"
+  },
+  {
+    "description": "feuilles mortes transparent",
+    "label": "compost"
+  },
+  {
+    "description": "emballage cassé",
+    "label": "plastique"
+  },
+  {
+    "description": "morceau de ferraille froissé",
+    "label": "métal"
+  },
+  {
+    "description": "papier gras coloré",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "bouteille coloré",
+    "label": "plastique"
+  },
+  {
+    "description": "flacon froissé",
+    "label": "plastique"
+  },
+  {
+    "description": "ampoule froissé",
+    "label": "verre"
+  },
+  {
+    "description": "vaisselle cassée usagé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "gobelet transparent",
+    "label": "plastique"
+  },
+  {
+    "description": "déchets de jardin transparent",
+    "label": "compost"
+  },
+  {
+    "description": "reste de nourriture cassé",
+    "label": "compost"
+  },
+  {
+    "description": "film alimentaire sale",
+    "label": "plastique"
+  },
+  {
+    "description": "verre teinté usagé",
+    "label": "verre"
+  },
+  {
+    "description": "barquette coloré",
+    "label": "plastique"
+  },
+  {
+    "description": "clou humide",
+    "label": "métal"
+  },
+  {
+    "description": "pot humide",
+    "label": "verre"
+  },
+  {
+    "description": "film alimentaire coloré",
+    "label": "plastique"
+  },
+  {
+    "description": "morceau de ferraille opaque",
+    "label": "métal"
+  },
+  {
+    "description": "reste de nourriture vide",
+    "label": "compost"
+  },
+  {
+    "description": "couvercle coloré",
+    "label": "plastique"
+  },
+  {
+    "description": "batterie plié",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "pelures vide",
+    "label": "compost"
+  },
+  {
+    "description": "marc de café humide",
+    "label": "compost"
+  },
+  {
+    "description": "poussière opaque",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "épluchures coloré",
+    "label": "compost"
+  },
+  {
+    "description": "couche jetable transparent",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "carton ondulé transparent",
+    "label": "papier_carton"
+  },
+  {
+    "description": "boîte métallique humide",
+    "label": "métal"
+  },
+  {
+    "description": "marc de café vide",
+    "label": "compost"
+  },
+  {
+    "description": "déchets de jardin coloré",
+    "label": "compost"
+  },
+  {
+    "description": "sac humide",
+    "label": "plastique"
+  },
+  {
+    "description": "flacon usagé",
+    "label": "plastique"
+  },
+  {
+    "description": "batterie usagé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "bouteille cassé",
+    "label": "plastique"
+  },
+  {
+    "description": "bouton humide",
+    "label": "métal"
+  },
+  {
+    "description": "vaisselle cassée opaque",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "flacon transparent",
+    "label": "verre"
+  },
+  {
+    "description": "clou opaque",
+    "label": "métal"
+  },
+  {
+    "description": "ampoule cassé",
+    "label": "verre"
+  },
+  {
+    "description": "flacon plié",
+    "label": "verre"
+  },
+  {
+    "description": "clou plié",
+    "label": "métal"
+  },
+  {
+    "description": "enveloppe coloré",
+    "label": "papier_carton"
+  },
+  {
+    "description": "reste de nourriture transparent",
+    "label": "compost"
+  },
+  {
+    "description": "gobelet cassé",
+    "label": "plastique"
+  },
+  {
+    "description": "ampoule plié",
+    "label": "verre"
+  },
+  {
+    "description": "restes alimentaires usagé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "jouet cassé opaque",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "canette humide",
+    "label": "métal"
+  },
+  {
+    "description": "fleurs fanées plié",
+    "label": "compost"
+  },
+  {
+    "description": "couvercle coloré",
+    "label": "plastique"
+  },
+  {
+    "description": "mouchoir sale",
+    "label": "papier_carton"
+  },
+  {
+    "description": "couche jetable sale",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "papier journal humide",
+    "label": "papier_carton"
+  },
+  {
+    "description": "bouteille vide",
+    "label": "plastique"
+  },
+  {
+    "description": "restes de pain opaque",
+    "label": "compost"
+  },
+  {
+    "description": "paquet opaque",
+    "label": "papier_carton"
+  },
+  {
+    "description": "boîte de conserve usagé",
+    "label": "métal"
+  },
+  {
+    "description": "reste de nourriture sale",
+    "label": "compost"
+  },
+  {
+    "description": "flacon opaque",
+    "label": "plastique"
+  },
+  {
+    "description": "papier gras coloré",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "couche jetable plié",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "sac usagé",
+    "label": "plastique"
+  },
+  {
+    "description": "carton ondulé humide",
+    "label": "papier_carton"
+  },
+  {
+    "description": "mouchoir vide",
+    "label": "papier_carton"
+  },
+  {
+    "description": "vaisselle cassée plié",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "pelures plié",
+    "label": "compost"
+  },
+  {
+    "description": "clou usagé",
+    "label": "métal"
+  },
+  {
+    "description": "bouton cassé",
+    "label": "métal"
+  },
+  {
+    "description": "bocal cassé",
+    "label": "verre"
+  },
+  {
+    "description": "reste de nourriture froissé",
+    "label": "compost"
+  },
+  {
+    "description": "papier gras coloré",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "coquilles d’oeufs sale",
+    "label": "compost"
+  },
+  {
+    "description": "pelures humide",
+    "label": "compost"
+  },
+  {
+    "description": "clou vide",
+    "label": "métal"
+  },
+  {
+    "description": "boîte de conserve usagé",
+    "label": "métal"
+  },
+  {
+    "description": "gobelet transparent",
+    "label": "plastique"
+  },
+  {
+    "description": "bouteille usagé",
+    "label": "verre"
+  },
+  {
+    "description": "bouteille usagé",
+    "label": "verre"
+  },
+  {
+    "description": "enveloppe vide",
+    "label": "papier_carton"
+  },
+  {
+    "description": "fleurs fanées humide",
+    "label": "compost"
+  },
+  {
+    "description": "cendres sale",
+    "label": "compost"
+  },
+  {
+    "description": "bocal froissé",
+    "label": "verre"
+  },
+  {
+    "description": "bocal usagé",
+    "label": "verre"
+  },
+  {
+    "description": "bocal vide",
+    "label": "verre"
+  },
+  {
+    "description": "fleurs fanées opaque",
+    "label": "compost"
+  },
+  {
+    "description": "jouet sale",
+    "label": "plastique"
+  },
+  {
+    "description": "papier gras plié",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "morceau de ferraille opaque",
+    "label": "métal"
+  },
+  {
+    "description": "clou opaque",
+    "label": "métal"
+  },
+  {
+    "description": "journal froissé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "ampoule usagé",
+    "label": "verre"
+  },
+  {
+    "description": "bouteille humide",
+    "label": "plastique"
+  },
+  {
+    "description": "céramique plié",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "papier froissé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "carton ondulé vide",
+    "label": "papier_carton"
+  },
+  {
+    "description": "emballage froissé",
+    "label": "plastique"
+  },
+  {
+    "description": "pot plié",
+    "label": "verre"
+  },
+  {
+    "description": "bocal cassé",
+    "label": "verre"
+  },
+  {
+    "description": "film alimentaire coloré",
+    "label": "plastique"
+  },
+  {
+    "description": "papier gras sale",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "pelures cassé",
+    "label": "compost"
+  },
+  {
+    "description": "flacon vide",
+    "label": "verre"
+  },
+  {
+    "description": "verre de fenêtre usagé",
+    "label": "verre"
+  },
+  {
+    "description": "papier aluminium opaque",
+    "label": "métal"
+  },
+  {
+    "description": "boîte métallique vide",
+    "label": "métal"
+  },
+  {
+    "description": "déchets de jardin cassé",
+    "label": "compost"
+  },
+  {
+    "description": "marc de café transparent",
+    "label": "compost"
+  },
+  {
+    "description": "bouteille opaque",
+    "label": "plastique"
+  },
+  {
+    "description": "morceau de ferraille cassé",
+    "label": "métal"
+  },
+  {
+    "description": "reste de nourriture coloré",
+    "label": "compost"
+  },
+  {
+    "description": "boîte de conserve opaque",
+    "label": "métal"
+  },
+  {
+    "description": "bouton opaque",
+    "label": "métal"
+  },
+  {
+    "description": "sac cassé",
+    "label": "plastique"
+  },
+  {
+    "description": "clou froissé",
+    "label": "métal"
+  },
+  {
+    "description": "épluchures vide",
+    "label": "compost"
+  },
+  {
+    "description": "ampoule coloré",
+    "label": "verre"
+  },
+  {
+    "description": "bocal coloré",
+    "label": "verre"
+  },
+  {
+    "description": "batterie coloré",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "enveloppe cassé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "papier gras froissé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "couvercle usagé",
+    "label": "plastique"
+  },
+  {
+    "description": "jouet cassé cassé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "mouchoir plié",
+    "label": "papier_carton"
+  },
+  {
+    "description": "vaisselle cassée coloré",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "couvercle usagé",
+    "label": "plastique"
+  },
+  {
+    "description": "vaisselle cassée transparent",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "batterie vide",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "jouet transparent",
+    "label": "plastique"
+  },
+  {
+    "description": "flacon transparent",
+    "label": "plastique"
+  },
+  {
+    "description": "morceau de ferraille coloré",
+    "label": "métal"
+  },
+  {
+    "description": "capsule transparent",
+    "label": "métal"
+  },
+  {
+    "description": "paquet sale",
+    "label": "papier_carton"
+  },
+  {
+    "description": "feuilles mortes humide",
+    "label": "compost"
+  },
+  {
+    "description": "morceau de ferraille froissé",
+    "label": "métal"
+  },
+  {
+    "description": "jouet froissé",
+    "label": "plastique"
+  },
+  {
+    "description": "boîte métallique coloré",
+    "label": "métal"
+  },
+  {
+    "description": "bouteille opaque",
+    "label": "verre"
+  },
+  {
+    "description": "couvercle usagé",
+    "label": "plastique"
+  },
+  {
+    "description": "bouteille transparent",
+    "label": "plastique"
+  },
+  {
+    "description": "couvercle coloré",
+    "label": "plastique"
+  },
+  {
+    "description": "clou sale",
+    "label": "métal"
+  },
+  {
+    "description": "ampoule opaque",
+    "label": "verre"
+  },
+  {
+    "description": "bouteille humide",
+    "label": "plastique"
+  },
+  {
+    "description": "poussière humide",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "bouteille plié",
+    "label": "plastique"
+  },
+  {
+    "description": "bouteille cassé",
+    "label": "plastique"
+  },
+  {
+    "description": "clou cassé",
+    "label": "métal"
+  },
+  {
+    "description": "clou sale",
+    "label": "métal"
+  },
+  {
+    "description": "paquet opaque",
+    "label": "papier_carton"
+  },
+  {
+    "description": "coquilles d’oeufs froissé",
+    "label": "compost"
+  },
+  {
+    "description": "flacon humide",
+    "label": "plastique"
+  },
+  {
+    "description": "bocal humide",
+    "label": "verre"
+  },
+  {
+    "description": "céramique froissé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "emballage plié",
+    "label": "plastique"
+  },
+  {
+    "description": "flacon froissé",
+    "label": "verre"
+  },
+  {
+    "description": "sac sale",
+    "label": "plastique"
+  },
+  {
+    "description": "bouteille vide",
+    "label": "plastique"
+  },
+  {
+    "description": "mégot humide",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "capsule froissé",
+    "label": "métal"
+  },
+  {
+    "description": "enveloppe plié",
+    "label": "papier_carton"
+  },
+  {
+    "description": "restes alimentaires usagé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "emballage vide",
+    "label": "plastique"
+  },
+  {
+    "description": "bouteille froissé",
+    "label": "plastique"
+  },
+  {
+    "description": "papier aluminium vide",
+    "label": "métal"
+  },
+  {
+    "description": "rondelle transparent",
+    "label": "métal"
+  },
+  {
+    "description": "barquette plié",
+    "label": "plastique"
+  },
+  {
+    "description": "papier aluminium opaque",
+    "label": "métal"
+  },
+  {
+    "description": "gobelet froissé",
+    "label": "plastique"
+  },
+  {
+    "description": "batterie froissé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "boîte métallique sale",
+    "label": "métal"
+  },
+  {
+    "description": "papier aluminium sale",
+    "label": "métal"
+  },
+  {
+    "description": "mégot vide",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "pelures usagé",
+    "label": "compost"
+  },
+  {
+    "description": "canette sale",
+    "label": "métal"
+  },
+  {
+    "description": "film sale cassé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "clou vide",
+    "label": "métal"
+  },
+  {
+    "description": "vaisselle cassée transparent",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "rondelle sale",
+    "label": "métal"
+  },
+  {
+    "description": "papier journal transparent",
+    "label": "papier_carton"
+  },
+  {
+    "description": "journal plié",
+    "label": "papier_carton"
+  },
+  {
+    "description": "cendres transparent",
+    "label": "compost"
+  },
+  {
+    "description": "film alimentaire usagé",
+    "label": "plastique"
+  },
+  {
+    "description": "papier gras froissé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "bouteille transparent",
+    "label": "verre"
+  },
+  {
+    "description": "batterie coloré",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "barquette humide",
+    "label": "plastique"
+  },
+  {
+    "description": "capsule plié",
+    "label": "métal"
+  },
+  {
+    "description": "cahier opaque",
+    "label": "papier_carton"
+  },
+  {
+    "description": "canette vide",
+    "label": "métal"
+  },
+  {
+    "description": "flacon coloré",
+    "label": "plastique"
+  },
+  {
+    "description": "carton opaque",
+    "label": "papier_carton"
+  },
+  {
+    "description": "verre vide",
+    "label": "verre"
+  },
+  {
+    "description": "déchets de jardin humide",
+    "label": "compost"
+  },
+  {
+    "description": "reste de nourriture coloré",
+    "label": "compost"
+  },
+  {
+    "description": "clou usagé",
+    "label": "métal"
+  },
+  {
+    "description": "reste de nourriture opaque",
+    "label": "compost"
+  },
+  {
+    "description": "vaisselle cassée transparent",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "mégot usagé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "bouteille usagé",
+    "label": "plastique"
+  },
+  {
+    "description": "vaisselle cassée transparent",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "boîte cassé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "restes de pain humide",
+    "label": "compost"
+  },
+  {
+    "description": "mégot plié",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "bouteille usagé",
+    "label": "plastique"
+  },
+  {
+    "description": "barquette vide",
+    "label": "plastique"
+  },
+  {
+    "description": "restes alimentaires usagé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "bouteille cassé",
+    "label": "verre"
+  },
+  {
+    "description": "poussière transparent",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "paquet usagé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "flacon vide",
+    "label": "verre"
+  },
+  {
+    "description": "enveloppe sale",
+    "label": "papier_carton"
+  },
+  {
+    "description": "jouet cassé sale",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "morceau de ferraille usagé",
+    "label": "métal"
+  },
+  {
+    "description": "épluchures opaque",
+    "label": "compost"
+  },
+  {
+    "description": "journal humide",
+    "label": "papier_carton"
+  },
+  {
+    "description": "bouteille plié",
+    "label": "verre"
+  },
+  {
+    "description": "coquilles d’oeufs transparent",
+    "label": "compost"
+  },
+  {
+    "description": "morceau de ferraille opaque",
+    "label": "métal"
+  },
+  {
+    "description": "bouton transparent",
+    "label": "métal"
+  },
+  {
+    "description": "papier journal transparent",
+    "label": "papier_carton"
+  },
+  {
+    "description": "flacon vide",
+    "label": "verre"
+  },
+  {
+    "description": "paquet vide",
+    "label": "papier_carton"
+  },
+  {
+    "description": "jouet humide",
+    "label": "plastique"
+  },
+  {
+    "description": "couche jetable vide",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "sac coloré",
+    "label": "plastique"
+  },
+  {
+    "description": "fleurs fanées froissé",
+    "label": "compost"
+  },
+  {
+    "description": "reste de nourriture vide",
+    "label": "compost"
+  },
+  {
+    "description": "verre teinté coloré",
+    "label": "verre"
+  },
+  {
+    "description": "bouteille usagé",
+    "label": "plastique"
+  },
+  {
+    "description": "morceau de ferraille vide",
+    "label": "métal"
+  },
+  {
+    "description": "papier gras sale",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "mouchoir plié",
+    "label": "papier_carton"
+  },
+  {
+    "description": "journal cassé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "bouton transparent",
+    "label": "métal"
+  },
+  {
+    "description": "cendres humide",
+    "label": "compost"
+  },
+  {
+    "description": "mégot plié",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "bocal usagé",
+    "label": "verre"
+  },
+  {
+    "description": "papier journal froissé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "canette sale",
+    "label": "métal"
+  },
+  {
+    "description": "pelures humide",
+    "label": "compost"
+  },
+  {
+    "description": "bouteille vide",
+    "label": "verre"
+  },
+  {
+    "description": "bouteille froissé",
+    "label": "plastique"
+  },
+  {
+    "description": "cendres transparent",
+    "label": "compost"
+  },
+  {
+    "description": "mouchoir plié",
+    "label": "papier_carton"
+  },
+  {
+    "description": "couvercle sale",
+    "label": "plastique"
+  },
+  {
+    "description": "clou cassé",
+    "label": "métal"
+  },
+  {
+    "description": "poussière opaque",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "ampoule coloré",
+    "label": "verre"
+  },
+  {
+    "description": "clou transparent",
+    "label": "métal"
+  },
+  {
+    "description": "restes de pain vide",
+    "label": "compost"
+  },
+  {
+    "description": "boîte métallique cassé",
+    "label": "métal"
+  },
+  {
+    "description": "pot transparent",
+    "label": "verre"
+  },
+  {
+    "description": "reste de nourriture opaque",
+    "label": "compost"
+  },
+  {
+    "description": "poussière sale",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "enveloppe usagé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "paquet sale",
+    "label": "papier_carton"
+  },
+  {
+    "description": "bouton cassé",
+    "label": "métal"
+  },
+  {
+    "description": "clou opaque",
+    "label": "métal"
+  },
+  {
+    "description": "bocal plié",
+    "label": "verre"
+  },
+  {
+    "description": "flacon cassé",
+    "label": "verre"
+  },
+  {
+    "description": "paquet coloré",
+    "label": "papier_carton"
+  },
+  {
+    "description": "bouteille usagé",
+    "label": "plastique"
+  },
+  {
+    "description": "papier aluminium humide",
+    "label": "métal"
+  },
+  {
+    "description": "cahier humide",
+    "label": "papier_carton"
+  },
+  {
+    "description": "canette humide",
+    "label": "métal"
+  },
+  {
+    "description": "boîte opaque",
+    "label": "papier_carton"
+  },
+  {
+    "description": "bouton vide",
+    "label": "métal"
+  },
+  {
+    "description": "batterie coloré",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "batterie sale",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "enveloppe cassé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "couche jetable coloré",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "déchets de jardin cassé",
+    "label": "compost"
+  },
+  {
+    "description": "papier gras transparent",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "emballage usagé",
+    "label": "plastique"
+  },
+  {
+    "description": "rondelle transparent",
+    "label": "métal"
+  },
+  {
+    "description": "journal transparent",
+    "label": "papier_carton"
+  },
+  {
+    "description": "film sale plié",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "emballage cassé",
+    "label": "plastique"
+  },
+  {
+    "description": "boîte sale",
+    "label": "papier_carton"
+  },
+  {
+    "description": "emballage sale",
+    "label": "plastique"
+  },
+  {
+    "description": "clou froissé",
+    "label": "métal"
+  },
+  {
+    "description": "boîte de conserve froissé",
+    "label": "métal"
+  },
+  {
+    "description": "papier journal opaque",
+    "label": "papier_carton"
+  },
+  {
+    "description": "papier vide",
+    "label": "papier_carton"
+  },
+  {
+    "description": "enveloppe vide",
+    "label": "papier_carton"
+  },
+  {
+    "description": "jouet cassé opaque",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "cendres cassé",
+    "label": "compost"
+  },
+  {
+    "description": "couvercle vide",
+    "label": "plastique"
+  },
+  {
+    "description": "pot vide",
+    "label": "verre"
+  },
+  {
+    "description": "sac vide",
+    "label": "plastique"
+  },
+  {
+    "description": "paquet vide",
+    "label": "papier_carton"
+  },
+  {
+    "description": "jouet cassé transparent",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "bouteille sale",
+    "label": "plastique"
+  },
+  {
+    "description": "pelures coloré",
+    "label": "compost"
+  },
+  {
+    "description": "cendres opaque",
+    "label": "compost"
+  },
+  {
+    "description": "journal sale",
+    "label": "papier_carton"
+  },
+  {
+    "description": "verre teinté plié",
+    "label": "verre"
+  },
+  {
+    "description": "journal froissé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "mégot vide",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "morceau de ferraille transparent",
+    "label": "métal"
+  },
+  {
+    "description": "film sale usagé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "flacon coloré",
+    "label": "verre"
+  },
+  {
+    "description": "poussière plié",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "papier journal sale",
+    "label": "papier_carton"
+  },
+  {
+    "description": "bouteille sale",
+    "label": "verre"
+  },
+  {
+    "description": "déchets de jardin cassé",
+    "label": "compost"
+  },
+  {
+    "description": "céramique coloré",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "bouton transparent",
+    "label": "métal"
+  },
+  {
+    "description": "ampoule plié",
+    "label": "verre"
+  },
+  {
+    "description": "boîte métallique usagé",
+    "label": "métal"
+  },
+  {
+    "description": "poussière usagé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "fleurs fanées opaque",
+    "label": "compost"
+  },
+  {
+    "description": "bouteille vide",
+    "label": "plastique"
+  },
+  {
+    "description": "jouet froissé",
+    "label": "plastique"
+  },
+  {
+    "description": "clou plié",
+    "label": "métal"
+  },
+  {
+    "description": "paquet transparent",
+    "label": "papier_carton"
+  },
+  {
+    "description": "pelures froissé",
+    "label": "compost"
+  },
+  {
+    "description": "film sale transparent",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "reste de nourriture plié",
+    "label": "compost"
+  },
+  {
+    "description": "cahier vide",
+    "label": "papier_carton"
+  },
+  {
+    "description": "boîte de conserve usagé",
+    "label": "métal"
+  },
+  {
+    "description": "restes alimentaires opaque",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "rondelle cassé",
+    "label": "métal"
+  },
+  {
+    "description": "clou humide",
+    "label": "métal"
+  },
+  {
+    "description": "verre de fenêtre vide",
+    "label": "verre"
+  },
+  {
+    "description": "papier aluminium humide",
+    "label": "métal"
+  },
+  {
+    "description": "clou froissé",
+    "label": "métal"
+  },
+  {
+    "description": "emballage coloré",
+    "label": "plastique"
+  },
+  {
+    "description": "déchets de jardin plié",
+    "label": "compost"
+  },
+  {
+    "description": "morceau de ferraille humide",
+    "label": "métal"
+  },
+  {
+    "description": "jouet cassé froissé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "sac humide",
+    "label": "plastique"
+  },
+  {
+    "description": "barquette plié",
+    "label": "plastique"
+  },
+  {
+    "description": "cahier coloré",
+    "label": "papier_carton"
+  },
+  {
+    "description": "marc de café usagé",
+    "label": "compost"
+  },
+  {
+    "description": "canette usagé",
+    "label": "métal"
+  },
+  {
+    "description": "déchets de jardin coloré",
+    "label": "compost"
+  },
+  {
+    "description": "carton cassé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "carton plié",
+    "label": "papier_carton"
+  },
+  {
+    "description": "verre teinté cassé",
+    "label": "verre"
+  },
+  {
+    "description": "feuilles mortes cassé",
+    "label": "compost"
+  },
+  {
+    "description": "boîte de conserve usagé",
+    "label": "métal"
+  },
+  {
+    "description": "journal froissé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "papier aluminium froissé",
+    "label": "métal"
+  },
+  {
+    "description": "capsule vide",
+    "label": "métal"
+  },
+  {
+    "description": "cahier plié",
+    "label": "papier_carton"
+  },
+  {
+    "description": "bocal transparent",
+    "label": "verre"
+  },
+  {
+    "description": "capsule transparent",
+    "label": "métal"
+  },
+  {
+    "description": "mouchoir sale",
+    "label": "papier_carton"
+  },
+  {
+    "description": "verre teinté cassé",
+    "label": "verre"
+  },
+  {
+    "description": "batterie coloré",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "papier sale",
+    "label": "papier_carton"
+  },
+  {
+    "description": "clou vide",
+    "label": "métal"
+  },
+  {
+    "description": "vaisselle cassée usagé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "journal plié",
+    "label": "papier_carton"
+  },
+  {
+    "description": "flacon coloré",
+    "label": "verre"
+  },
+  {
+    "description": "bocal usagé",
+    "label": "verre"
+  },
+  {
+    "description": "film sale usagé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "fleurs fanées sale",
+    "label": "compost"
+  },
+  {
+    "description": "bouteille coloré",
+    "label": "verre"
+  },
+  {
+    "description": "boîte de conserve coloré",
+    "label": "métal"
+  },
+  {
+    "description": "poussière vide",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "reste de nourriture usagé",
+    "label": "compost"
+  },
+  {
+    "description": "paquet plié",
+    "label": "papier_carton"
+  },
+  {
+    "description": "épluchures cassé",
+    "label": "compost"
+  },
+  {
+    "description": "papier journal transparent",
+    "label": "papier_carton"
+  },
+  {
+    "description": "mouchoir opaque",
+    "label": "papier_carton"
+  },
+  {
+    "description": "carton ondulé cassé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "poussière coloré",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "enveloppe cassé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "ampoule transparent",
+    "label": "verre"
+  },
+  {
+    "description": "papier gras sale",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "verre teinté humide",
+    "label": "verre"
+  },
+  {
+    "description": "boîte vide",
+    "label": "papier_carton"
+  },
+  {
+    "description": "flacon froissé",
+    "label": "verre"
+  },
+  {
+    "description": "restes de pain vide",
+    "label": "compost"
+  },
+  {
+    "description": "emballage froissé",
+    "label": "plastique"
+  },
+  {
+    "description": "mégot plié",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "capsule sale",
+    "label": "métal"
+  },
+  {
+    "description": "bouteille froissé",
+    "label": "plastique"
+  },
+  {
+    "description": "jouet opaque",
+    "label": "plastique"
+  },
+  {
+    "description": "gobelet plié",
+    "label": "plastique"
+  },
+  {
+    "description": "cahier transparent",
+    "label": "papier_carton"
+  },
+  {
+    "description": "film sale coloré",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "vaisselle cassée coloré",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "restes alimentaires plié",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "cahier cassé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "gobelet usagé",
+    "label": "plastique"
+  },
+  {
+    "description": "bouteille coloré",
+    "label": "plastique"
+  },
+  {
+    "description": "clou coloré",
+    "label": "métal"
+  },
+  {
+    "description": "bouteille humide",
+    "label": "plastique"
+  },
+  {
+    "description": "barquette usagé",
+    "label": "plastique"
+  },
+  {
+    "description": "capsule usagé",
+    "label": "métal"
+  },
+  {
+    "description": "papier gras usagé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "jouet cassé plié",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "verre plié",
+    "label": "verre"
+  },
+  {
+    "description": "bouteille vide",
+    "label": "plastique"
+  },
+  {
+    "description": "reste de nourriture humide",
+    "label": "compost"
+  },
+  {
+    "description": "cendres sale",
+    "label": "compost"
+  },
+  {
+    "description": "verre teinté coloré",
+    "label": "verre"
+  },
+  {
+    "description": "bouteille opaque",
+    "label": "plastique"
+  },
+  {
+    "description": "restes de pain cassé",
+    "label": "compost"
+  },
+  {
+    "description": "enveloppe plié",
+    "label": "papier_carton"
+  },
+  {
+    "description": "sac usagé",
+    "label": "plastique"
+  },
+  {
+    "description": "carafe sale",
+    "label": "verre"
+  },
+  {
+    "description": "bocal humide",
+    "label": "verre"
+  },
+  {
+    "description": "poussière cassé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "déchets de jardin sale",
+    "label": "compost"
+  },
+  {
+    "description": "verre humide",
+    "label": "verre"
+  },
+  {
+    "description": "verre coloré",
+    "label": "verre"
+  },
+  {
+    "description": "vaisselle cassée opaque",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "verre teinté opaque",
+    "label": "verre"
+  },
+  {
+    "description": "bouteille vide",
+    "label": "verre"
+  },
+  {
+    "description": "mégot humide",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "film sale humide",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "poussière usagé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "gobelet usagé",
+    "label": "plastique"
+  },
+  {
+    "description": "coquilles d’oeufs cassé",
+    "label": "compost"
+  },
+  {
+    "description": "cendres opaque",
+    "label": "compost"
+  },
+  {
+    "description": "mouchoir plié",
+    "label": "papier_carton"
+  },
+  {
+    "description": "jouet humide",
+    "label": "plastique"
+  },
+  {
+    "description": "boîte métallique coloré",
+    "label": "métal"
+  },
+  {
+    "description": "paquet froissé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "feuilles mortes coloré",
+    "label": "compost"
+  },
+  {
+    "description": "verre transparent",
+    "label": "verre"
+  },
+  {
+    "description": "ampoule sale",
+    "label": "verre"
+  },
+  {
+    "description": "clou froissé",
+    "label": "métal"
+  },
+  {
+    "description": "bouteille transparent",
+    "label": "plastique"
+  },
+  {
+    "description": "coquilles d’oeufs vide",
+    "label": "compost"
+  },
+  {
+    "description": "coquilles d’oeufs froissé",
+    "label": "compost"
+  },
+  {
+    "description": "coquilles d’oeufs cassé",
+    "label": "compost"
+  },
+  {
+    "description": "marc de café usagé",
+    "label": "compost"
+  },
+  {
+    "description": "gobelet froissé",
+    "label": "plastique"
+  },
+  {
+    "description": "carafe coloré",
+    "label": "verre"
+  },
+  {
+    "description": "verre teinté cassé",
+    "label": "verre"
+  },
+  {
+    "description": "restes de pain coloré",
+    "label": "compost"
+  },
+  {
+    "description": "bouteille humide",
+    "label": "plastique"
+  },
+  {
+    "description": "verre de fenêtre plié",
+    "label": "verre"
+  },
+  {
+    "description": "déchets de jardin cassé",
+    "label": "compost"
+  },
+  {
+    "description": "marc de café froissé",
+    "label": "compost"
+  },
+  {
+    "description": "boîte opaque",
+    "label": "papier_carton"
+  },
+  {
+    "description": "pelures transparent",
+    "label": "compost"
+  },
+  {
+    "description": "batterie cassé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "vaisselle cassée froissé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "mouchoir coloré",
+    "label": "papier_carton"
+  },
+  {
+    "description": "barquette opaque",
+    "label": "plastique"
+  },
+  {
+    "description": "verre de fenêtre vide",
+    "label": "verre"
+  },
+  {
+    "description": "pot cassé",
+    "label": "verre"
+  },
+  {
+    "description": "batterie coloré",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "mouchoir cassé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "mouchoir opaque",
+    "label": "papier_carton"
+  },
+  {
+    "description": "carton ondulé cassé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "verre teinté sale",
+    "label": "verre"
+  },
+  {
+    "description": "carton ondulé coloré",
+    "label": "papier_carton"
+  },
+  {
+    "description": "clou transparent",
+    "label": "métal"
+  },
+  {
+    "description": "restes alimentaires vide",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "pelures humide",
+    "label": "compost"
+  },
+  {
+    "description": "papier aluminium vide",
+    "label": "métal"
+  },
+  {
+    "description": "papier froissé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "poussière coloré",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "film alimentaire sale",
+    "label": "plastique"
+  },
+  {
+    "description": "enveloppe coloré",
+    "label": "papier_carton"
+  },
+  {
+    "description": "gobelet cassé",
+    "label": "plastique"
+  },
+  {
+    "description": "bouteille plié",
+    "label": "plastique"
+  },
+  {
+    "description": "bocal sale",
+    "label": "verre"
+  },
+  {
+    "description": "jouet cassé sale",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "mouchoir usagé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "couvercle coloré",
+    "label": "plastique"
+  },
+  {
+    "description": "couche jetable transparent",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "boîte métallique plié",
+    "label": "métal"
+  },
+  {
+    "description": "céramique plié",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "reste de nourriture transparent",
+    "label": "compost"
+  },
+  {
+    "description": "cahier vide",
+    "label": "papier_carton"
+  },
+  {
+    "description": "carton opaque",
+    "label": "papier_carton"
+  },
+  {
+    "description": "bouton opaque",
+    "label": "métal"
+  },
+  {
+    "description": "déchets de jardin coloré",
+    "label": "compost"
+  },
+  {
+    "description": "batterie cassé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "morceau de ferraille humide",
+    "label": "métal"
+  },
+  {
+    "description": "papier cassé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "sac coloré",
+    "label": "plastique"
+  },
+  {
+    "description": "bouton humide",
+    "label": "métal"
+  },
+  {
+    "description": "restes de pain coloré",
+    "label": "compost"
+  },
+  {
+    "description": "clou plié",
+    "label": "métal"
+  },
+  {
+    "description": "bouton coloré",
+    "label": "métal"
+  },
+  {
+    "description": "clou sale",
+    "label": "métal"
+  },
+  {
+    "description": "fleurs fanées vide",
+    "label": "compost"
+  },
+  {
+    "description": "jouet transparent",
+    "label": "plastique"
+  },
+  {
+    "description": "carton ondulé cassé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "carton humide",
+    "label": "papier_carton"
+  },
+  {
+    "description": "flacon opaque",
+    "label": "verre"
+  },
+  {
+    "description": "paquet cassé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "morceau de ferraille cassé",
+    "label": "métal"
+  },
+  {
+    "description": "bouton plié",
+    "label": "métal"
+  },
+  {
+    "description": "restes de pain sale",
+    "label": "compost"
+  },
+  {
+    "description": "pot usagé",
+    "label": "verre"
+  },
+  {
+    "description": "pot froissé",
+    "label": "verre"
+  },
+  {
+    "description": "verre teinté opaque",
+    "label": "verre"
+  },
+  {
+    "description": "gobelet humide",
+    "label": "plastique"
+  },
+  {
+    "description": "feuilles mortes cassé",
+    "label": "compost"
+  },
+  {
+    "description": "clou plié",
+    "label": "métal"
+  },
+  {
+    "description": "barquette cassé",
+    "label": "plastique"
+  },
+  {
+    "description": "film alimentaire cassé",
+    "label": "plastique"
+  },
+  {
+    "description": "restes de pain opaque",
+    "label": "compost"
+  },
+  {
+    "description": "papier aluminium cassé",
+    "label": "métal"
+  },
+  {
+    "description": "bouteille froissé",
+    "label": "verre"
+  },
+  {
+    "description": "paquet vide",
+    "label": "papier_carton"
+  },
+  {
+    "description": "bouteille plié",
+    "label": "verre"
+  },
+  {
+    "description": "céramique cassé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "ampoule transparent",
+    "label": "verre"
+  },
+  {
+    "description": "pot coloré",
+    "label": "verre"
+  },
+  {
+    "description": "journal froissé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "rondelle froissé",
+    "label": "métal"
+  },
+  {
+    "description": "flacon cassé",
+    "label": "plastique"
+  },
+  {
+    "description": "film sale vide",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "papier journal plié",
+    "label": "papier_carton"
+  },
+  {
+    "description": "épluchures plié",
+    "label": "compost"
+  },
+  {
+    "description": "cahier usagé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "bouteille vide",
+    "label": "verre"
+  },
+  {
+    "description": "épluchures cassé",
+    "label": "compost"
+  },
+  {
+    "description": "verre teinté plié",
+    "label": "verre"
+  },
+  {
+    "description": "flacon sale",
+    "label": "plastique"
+  },
+  {
+    "description": "sac vide",
+    "label": "plastique"
+  },
+  {
+    "description": "enveloppe plié",
+    "label": "papier_carton"
+  },
+  {
+    "description": "boîte de conserve opaque",
+    "label": "métal"
+  },
+  {
+    "description": "bouteille opaque",
+    "label": "verre"
+  },
+  {
+    "description": "papier journal humide",
+    "label": "papier_carton"
+  },
+  {
+    "description": "bouteille transparent",
+    "label": "verre"
+  },
+  {
+    "description": "pot froissé",
+    "label": "verre"
+  },
+  {
+    "description": "feuilles mortes vide",
+    "label": "compost"
+  },
+  {
+    "description": "rondelle cassé",
+    "label": "métal"
+  },
+  {
+    "description": "marc de café usagé",
+    "label": "compost"
+  },
+  {
+    "description": "couche jetable vide",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "clou vide",
+    "label": "métal"
+  },
+  {
+    "description": "capsule coloré",
+    "label": "métal"
+  },
+  {
+    "description": "feuilles mortes opaque",
+    "label": "compost"
+  },
+  {
+    "description": "enveloppe opaque",
+    "label": "papier_carton"
+  },
+  {
+    "description": "rondelle cassé",
+    "label": "métal"
+  },
+  {
+    "description": "canette vide",
+    "label": "métal"
+  },
+  {
+    "description": "carton ondulé sale",
+    "label": "papier_carton"
+  },
+  {
+    "description": "bouteille humide",
+    "label": "plastique"
+  },
+  {
+    "description": "cahier vide",
+    "label": "papier_carton"
+  },
+  {
+    "description": "feuilles mortes sale",
+    "label": "compost"
+  },
+  {
+    "description": "film sale cassé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "céramique cassé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "batterie humide",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "reste de nourriture humide",
+    "label": "compost"
+  },
+  {
+    "description": "verre teinté coloré",
+    "label": "verre"
+  },
+  {
+    "description": "sac coloré",
+    "label": "plastique"
+  },
+  {
+    "description": "feuilles mortes cassé",
+    "label": "compost"
+  },
+  {
+    "description": "boîte métallique plié",
+    "label": "métal"
+  },
+  {
+    "description": "restes alimentaires transparent",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "marc de café plié",
+    "label": "compost"
+  },
+  {
+    "description": "batterie cassé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "emballage plié",
+    "label": "plastique"
+  },
+  {
+    "description": "carafe vide",
+    "label": "verre"
+  },
+  {
+    "description": "carafe sale",
+    "label": "verre"
+  },
+  {
+    "description": "capsule vide",
+    "label": "métal"
+  },
+  {
+    "description": "boîte de conserve cassé",
+    "label": "métal"
+  },
+  {
+    "description": "bouteille cassé",
+    "label": "plastique"
+  },
+  {
+    "description": "couvercle opaque",
+    "label": "plastique"
+  },
+  {
+    "description": "vaisselle cassée cassé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "couvercle froissé",
+    "label": "plastique"
+  },
+  {
+    "description": "fleurs fanées humide",
+    "label": "compost"
+  },
+  {
+    "description": "carton plié",
+    "label": "papier_carton"
+  },
+  {
+    "description": "boîte de conserve cassé",
+    "label": "métal"
+  },
+  {
+    "description": "feuilles mortes usagé",
+    "label": "compost"
+  },
+  {
+    "description": "boîte métallique humide",
+    "label": "métal"
+  },
+  {
+    "description": "cendres usagé",
+    "label": "compost"
+  },
+  {
+    "description": "papier opaque",
+    "label": "papier_carton"
+  },
+  {
+    "description": "bouton froissé",
+    "label": "métal"
+  },
+  {
+    "description": "boîte vide",
+    "label": "papier_carton"
+  },
+  {
+    "description": "pelures cassé",
+    "label": "compost"
+  },
+  {
+    "description": "papier gras opaque",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "carton coloré",
+    "label": "papier_carton"
+  },
+  {
+    "description": "rondelle vide",
+    "label": "métal"
+  },
+  {
+    "description": "jouet cassé",
+    "label": "plastique"
+  },
+  {
+    "description": "verre de fenêtre coloré",
+    "label": "verre"
+  },
+  {
+    "description": "cendres froissé",
+    "label": "compost"
+  },
+  {
+    "description": "journal opaque",
+    "label": "papier_carton"
+  },
+  {
+    "description": "journal transparent",
+    "label": "papier_carton"
+  },
+  {
+    "description": "restes de pain vide",
+    "label": "compost"
+  },
+  {
+    "description": "reste de nourriture cassé",
+    "label": "compost"
+  },
+  {
+    "description": "verre de fenêtre froissé",
+    "label": "verre"
+  },
+  {
+    "description": "poussière cassé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "déchets de jardin vide",
+    "label": "compost"
+  },
+  {
+    "description": "papier aluminium humide",
+    "label": "métal"
+  },
+  {
+    "description": "boîte coloré",
+    "label": "papier_carton"
+  },
+  {
+    "description": "papier journal vide",
+    "label": "papier_carton"
+  },
+  {
+    "description": "journal froissé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "enveloppe transparent",
+    "label": "papier_carton"
+  },
+  {
+    "description": "pelures plié",
+    "label": "compost"
+  },
+  {
+    "description": "pelures cassé",
+    "label": "compost"
+  },
+  {
+    "description": "ampoule cassé",
+    "label": "verre"
+  },
+  {
+    "description": "journal transparent",
+    "label": "papier_carton"
+  },
+  {
+    "description": "feuilles mortes opaque",
+    "label": "compost"
+  },
+  {
+    "description": "restes alimentaires sale",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "marc de café froissé",
+    "label": "compost"
+  },
+  {
+    "description": "vaisselle cassée vide",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "ampoule coloré",
+    "label": "verre"
+  },
+  {
+    "description": "sac vide",
+    "label": "plastique"
+  },
+  {
+    "description": "papier journal vide",
+    "label": "papier_carton"
+  },
+  {
+    "description": "boîte usagé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "carafe plié",
+    "label": "verre"
+  },
+  {
+    "description": "papier gras usagé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "mégot sale",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "jouet transparent",
+    "label": "plastique"
+  },
+  {
+    "description": "marc de café coloré",
+    "label": "compost"
+  },
+  {
+    "description": "céramique opaque",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "batterie vide",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "carafe sale",
+    "label": "verre"
+  },
+  {
+    "description": "cahier vide",
+    "label": "papier_carton"
+  },
+  {
+    "description": "boîte de conserve usagé",
+    "label": "métal"
+  },
+  {
+    "description": "enveloppe coloré",
+    "label": "papier_carton"
+  },
+  {
+    "description": "fleurs fanées coloré",
+    "label": "compost"
+  },
+  {
+    "description": "paquet sale",
+    "label": "papier_carton"
+  },
+  {
+    "description": "couche jetable usagé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "cendres usagé",
+    "label": "compost"
+  },
+  {
+    "description": "clou usagé",
+    "label": "métal"
+  },
+  {
+    "description": "boîte froissé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "restes alimentaires humide",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "bouteille sale",
+    "label": "verre"
+  },
+  {
+    "description": "papier journal coloré",
+    "label": "papier_carton"
+  },
+  {
+    "description": "jouet cassé plié",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "boîte métallique usagé",
+    "label": "métal"
+  },
+  {
+    "description": "verre transparent",
+    "label": "verre"
+  },
+  {
+    "description": "poussière usagé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "feuilles mortes vide",
+    "label": "compost"
+  },
+  {
+    "description": "boîte métallique opaque",
+    "label": "métal"
+  },
+  {
+    "description": "pelures humide",
+    "label": "compost"
+  },
+  {
+    "description": "cendres cassé",
+    "label": "compost"
+  },
+  {
+    "description": "pot transparent",
+    "label": "verre"
+  },
+  {
+    "description": "bouteille opaque",
+    "label": "verre"
+  },
+  {
+    "description": "couvercle vide",
+    "label": "plastique"
+  },
+  {
+    "description": "gobelet froissé",
+    "label": "plastique"
+  },
+  {
+    "description": "carafe cassé",
+    "label": "verre"
+  },
+  {
+    "description": "poussière cassé",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "feuilles mortes froissé",
+    "label": "compost"
+  },
+  {
+    "description": "épluchures usagé",
+    "label": "compost"
+  },
+  {
+    "description": "papier journal sale",
+    "label": "papier_carton"
+  },
+  {
+    "description": "papier journal cassé",
+    "label": "papier_carton"
+  },
+  {
+    "description": "barquette plié",
+    "label": "plastique"
+  },
+  {
+    "description": "poussière humide",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "jouet cassé coloré",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "film alimentaire plié",
+    "label": "plastique"
+  },
+  {
+    "description": "marc de café opaque",
+    "label": "compost"
+  },
+  {
+    "description": "ampoule humide",
+    "label": "verre"
+  },
+  {
+    "description": "jouet cassé vide",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "carafe humide",
+    "label": "verre"
+  },
+  {
+    "description": "pot vide",
+    "label": "verre"
+  },
+  {
+    "description": "verre transparent",
+    "label": "verre"
+  },
+  {
+    "description": "mouchoir opaque",
+    "label": "papier_carton"
+  },
+  {
+    "description": "pot transparent",
+    "label": "verre"
+  },
+  {
+    "description": "rondelle plié",
+    "label": "métal"
+  },
+  {
+    "description": "cahier vide",
+    "label": "papier_carton"
+  },
+  {
+    "description": "bouteille opaque",
+    "label": "verre"
+  },
+  {
+    "description": "couche jetable humide",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "boîte de conserve coloré",
+    "label": "métal"
+  },
+  {
+    "description": "batterie sale",
+    "label": "non-recyclable"
+  },
+  {
+    "description": "gobelet vide",
+    "label": "plastique"
+  },
+  {
+    "description": "bouteille humide",
+    "label": "plastique"
+  },
+  {
+    "description": "papier humide",
+    "label": "papier_carton"
+  },
+  {
+    "description": "bocal cassé",
+    "label": "verre"
+  },
+  {
+    "description": "boîte transparent",
+    "label": "papier_carton"
+  },
+  {
+    "description": "mouchoir coloré",
+    "label": "papier_carton"
+  },
+  {
+    "description": "carafe transparent",
+    "label": "verre"
+  }
+]
