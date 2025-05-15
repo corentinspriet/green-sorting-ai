@@ -61,7 +61,7 @@ git clone https://github.com/corentinspriet/green-waste-classifier.git
 cd green-waste-classifier
 Installer les dépendances :
 pip install -r requirements.txt
-Ouvrir le notebook :
+Ouvrir le notebook ("classifier.ipynb") :
 
 jupyter notebook notebook/bert_classifier.ipynb
 🛠️ Améliorations possibles
